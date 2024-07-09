@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    border:border-box;
+    font-family: Arial;
+}
+
+/* Hero-section */
+
+.hero-section{
+    height:800px;
+    background-image:url("hero-image.png")
+}
+
+/* navbar */
+.navbar{
+    height: 40px;
+
+}
+
+/* nav-logo */
+.nav-logo{
+    height:100px;
+    width:100px;
+    
+    
+}
+.logo{
+       height:100px;
+       width:100%;
+       background-image:url(logo.png);
+       background-size:cover;
+      font-weight:600px
+}
